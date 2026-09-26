@@ -1,0 +1,229 @@
+[
+  {
+    "id": "apex_athletics",
+    "name": "Apex Athletics",
+    "category": "Sportswear & Fitness",
+    "positive_contexts": [
+      "fitness",
+      "sports",
+      "running",
+      "gym",
+      "workout",
+      "athletics",
+      "training",
+      "healthy_living",
+      "outdoor_adventure"
+    ],
+    "negative_contexts": [
+      "substance_abuse",
+      "tobacco_nicotine",
+      "death_injury",
+      "crime_illegal",
+      "sedentary",
+      "hospital_medical"
+    ],
+    "ad_creative_file": "ads/apex_athletics.mp4",
+    "creative_url": "ads/apex_athletics.mp4",
+    "duration_seconds": 15,
+    "click_through_url": "https://apexathletics.example.com"
+  },
+  {
+    "id": "aura_sparkling_water",
+    "name": "Aura Sparkling Water",
+    "category": "Beverages & Wellness",
+    "positive_contexts": [
+      "beverage",
+      "refreshment",
+      "dining",
+      "summer",
+      "beach",
+      "party",
+      "hydration",
+      "lifestyle",
+      "cooking"
+    ],
+    "negative_contexts": [
+      "substance_abuse",
+      "alcohol",
+      "tobacco_nicotine",
+      "pollution",
+      "death_injury",
+      "obscenity_profanity"
+    ],
+    "ad_creative_file": "ads/aura_sparkling.mp4",
+    "creative_url": "ads/aura_sparkling.mp4",
+    "duration_seconds": 15,
+    "click_through_url": "https://aurasparkling.example.com"
+  },
+  {
+    "id": "zenith_motors",
+    "name": "Zenith Motors",
+    "category": "Electric & Luxury Auto",
+    "positive_contexts": [
+      "automotive",
+      "driving",
+      "road_trip",
+      "luxury",
+      "clean_energy",
+      "technology",
+      "scenic_drive",
+      "modern_design"
+    ],
+    "negative_contexts": [
+      "car_accident",
+      "automotive_accident",
+      "traffic_collision",
+      "death_injury",
+      "crime_illegal",
+      "reckless_driving",
+      "military_conflict"
+    ],
+    "ad_creative_file": "ads/zenith_motors.mp4",
+    "creative_url": "ads/zenith_motors.mp4",
+    "duration_seconds": 15,
+    "click_through_url": "https://zenithmotors.example.com"
+  },
+  {
+    "id": "nova_cloud",
+    "name": "Nova Cloud Systems",
+    "category": "Enterprise SaaS & Tech",
+    "positive_contexts": [
+      "technology",
+      "business",
+      "coding",
+      "software",
+      "office",
+      "collaboration",
+      "data",
+      "innovation",
+      "corporate"
+    ],
+    "negative_contexts": [
+      "cyber_attack",
+      "data_breach",
+      "server_crash",
+      "crime_illegal",
+      "hate_speech",
+      "military_conflict",
+      "substance_abuse"
+    ],
+    "ad_creative_file": "ads/nova_cloud.mp4",
+    "creative_url": "ads/nova_cloud.mp4",
+    "duration_seconds": 15,
+    "click_through_url": "https://novacloud.example.com"
+  },
+  {
+    "id": "haven_financial",
+    "name": "Haven Wealth & Trust",
+    "category": "Banking & Wealth Mgmt",
+    "positive_contexts": [
+      "finance",
+      "investing",
+      "retirement",
+      "family_planning",
+      "home_buying",
+      "career_success",
+      "wealth",
+      "stability"
+    ],
+    "negative_contexts": [
+      "financial_fraud",
+      "gambling",
+      "poverty_crisis",
+      "bankruptcy",
+      "crime_illegal",
+      "death_injury",
+      "sensitive_social_issues"
+    ],
+    "ad_creative_file": "ads/haven_financial.mp4",
+    "creative_url": "ads/haven_financial.mp4",
+    "duration_seconds": 15,
+    "click_through_url": "https://havenwealth.example.com"
+  },
+  {
+    "id": "luxe_escapes",
+    "name": "Luxe Escapes",
+    "category": "Luxury Travel & Resorts",
+    "positive_contexts": [
+      "travel",
+      "vacation",
+      "resort",
+      "hotel",
+      "beach",
+      "tropical",
+      "exploration",
+      "relaxation",
+      "tourism"
+    ],
+    "negative_contexts": [
+      "flight_delay",
+      "plane_crash",
+      "travel_disaster",
+      "military_conflict",
+      "terrorism",
+      "death_injury",
+      "disease_outbreak"
+    ],
+    "ad_creative_file": "ads/luxe_escapes.mp4",
+    "creative_url": "ads/luxe_escapes.mp4",
+    "duration_seconds": 15,
+    "click_through_url": "https://luxeescapes.example.com"
+  },
+  {
+    "id": "glow_naturals",
+    "name": "Glow Naturals",
+    "category": "Organic Skincare & Beauty",
+    "positive_contexts": [
+      "skincare",
+      "beauty",
+      "self_care",
+      "morning_routine",
+      "wellness",
+      "cosmetics",
+      "spa",
+      "radiant_skin"
+    ],
+    "negative_contexts": [
+      "skin_disease",
+      "severe_acne",
+      "disfigurement",
+      "adult_content",
+      "death_injury",
+      "crime_illegal",
+      "substance_abuse"
+    ],
+    "ad_creative_file": "ads/glow_naturals.mp4",
+    "creative_url": "ads/glow_naturals.mp4",
+    "duration_seconds": 15,
+    "click_through_url": "https://glownaturals.example.com"
+  },
+  {
+    "id": "culinary_craft",
+    "name": "Culinary Craft",
+    "category": "Gourmet Meal Kits & Kitchen",
+    "positive_contexts": [
+      "cooking",
+      "chef",
+      "gourmet",
+      "kitchen",
+      "recipe",
+      "dining",
+      "food",
+      "family_dinner",
+      "baking"
+    ],
+    "negative_contexts": [
+      "food_poisoning",
+      "kitchen_fire",
+      "gore",
+      "death_injury",
+      "eating_disorder",
+      "disgusting_food",
+      "crime_illegal"
+    ],
+    "ad_creative_file": "ads/culinary_craft.mp4",
+    "creative_url": "ads/culinary_craft.mp4",
+    "duration_seconds": 15,
+    "click_through_url": "https://culinarycraft.example.com"
+  }
+]
